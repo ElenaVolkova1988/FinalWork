@@ -11,8 +11,15 @@ string [ ] CreateArray (int size)
     }
     return myArray;
 }
-
+void ShowArray (string []array) 
+ {
+    for( int i=0; i< array.Length; i++)
+    Console.Write(array[i]+ " ");
+    Console.WriteLine();
+ }
 Console.WriteLine("Input size array :");
 int size= Convert.ToInt32(Console.ReadLine());
 string [] myArray = CreateArray(size);
+ShowArray(myArray);
+
 
