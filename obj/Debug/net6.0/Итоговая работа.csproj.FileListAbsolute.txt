@@ -1,0 +1,15 @@
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.exe
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.deps.json
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.runtimeconfig.json
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.dll
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\bin\Debug\net6.0\Итоговая работа.pdb
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.csproj.AssemblyReference.cache
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.GeneratedMSBuildEditorConfig.editorconfig
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.AssemblyInfoInputs.cache
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.AssemblyInfo.cs
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.csproj.CoreCompileInputs.cache
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.dll
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\refint\Итоговая работа.dll
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.pdb
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\Итоговая работа.genruntimeconfig.cache
+\\Srv03\RFolders$\замглавбух\Desktop\Итоговая работа\obj\Debug\net6.0\ref\Итоговая работа.dll
