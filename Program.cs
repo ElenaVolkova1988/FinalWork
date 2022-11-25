@@ -22,10 +22,10 @@ string [] ThreeCharacters ( string [] array)
     int count = 0;
     for (int i = 0; i < finalArray.Length; i++)
     {
-    if(array[i].Length <= 3)
+        if(array[i].Length <= 3)
         {
-        finalArray[count] = array[i];
-        count++;
+            finalArray[count] = array[i];
+            count++;
         }
     }
     return finalArray;
